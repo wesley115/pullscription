@@ -1,0 +1,5 @@
+1. Familarize self with Django
+2. Failarize self with MySQL
+3. Work on .csv parsing using the files Jago sent over
+4. Get working database from file
+5. API search from URL
